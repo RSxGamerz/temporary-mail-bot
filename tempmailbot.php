@@ -12,7 +12,7 @@ if (function_exists('fastcgi_finish_request')) {
     fastcgi_finish_request();
 }
 
-define('BOT_TOKEN', 'XXXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX');
+define('BOT_TOKEN', '6555188467:AAGS3QMJuwnnF9b4-3Dre2PVzQ-_t0zsfI0');
 
 function teleRequest($method, $parameters)
 {
